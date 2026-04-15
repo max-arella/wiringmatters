@@ -56,10 +56,3 @@ pytest tests/
 
 The *C. elegans* connectome is downloaded automatically from the OpenWorm project on first run. No manual setup required.
 
-## Paper
-
-The Stage 1 results are written up in `paper/wiringmatters.tex`, ready to compile with pdflatex + bibtex. The main finding is summarised in the abstract.
-
----
-
-Maxence Arella — maxencearella@gmail.com
